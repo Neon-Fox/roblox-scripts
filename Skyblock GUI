@@ -1,0 +1,4 @@
+-- Created by system-exodus.com
+-- Brought to you by Neon_ Fox#4237
+
+loadstring(game:HttpGet("https://system-exodus.com/scripts/Skyblock/Skyblock.lua",true))()
