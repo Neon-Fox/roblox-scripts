@@ -1,0 +1,4 @@
+-- Made by Vynixu
+-- Brought to you by Neon_ Fox#4237
+
+loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
